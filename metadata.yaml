@@ -1,0 +1,38 @@
+_repo: International-Short-Stories--English_32846
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+tableOfContents: The two drovers / Sir W. Scott -- Mr. Deuceace / W.M. Thackeray --
+  The brothers / E. Bulwer Lytton -- Doctor Manette's manuscript / C. Dickens -- The
+  caldron of oil / W. Collins -- The burial of the tithe / S. Lover -- The Knightsbridge
+  myster / C. Reade -- The courting of Dinah Shadd / R. Kipling -- The Sire de Maletroit's
+  door / R.L. Stevenson -- The secret of Goresthorpe Grange / Sir A. Conan Doyle --
+  A change of treatment / W.W. Jacobs -- The Stickit Minister / S.R. Crockett -- The
+  Lammas preaching / S.R. Crockett -- The undergraduate's aunt / F. Anstey -- The
+  silhouettes / A.T. Quiller-Couch -- My brother Henry / J.M. Barrie -- Gilray's flower
+  pot / J.M. Barrie -- Mr. O'Leary's second love / C. Lever -- The indifference of
+  the miller of Hofbau / A.H. Hawkins -- The stolen body / H.G. Wells -- The lazarette
+  of the "Huntress" / W.C. Russell -- The great triangular duel / Capt. F. Marryat
+  -- Three thimbles and a pea / G. Borrow.
+title: 'International Short Stories: English'
+url: http://www.gutenberg.org/ebooks/32846
